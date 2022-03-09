@@ -8,13 +8,11 @@ This app allows users to keep an eye on their accounts whether an internet conne
 
 ---
 
-## Installation
+## Deployed
 
-1.)
+https://radiant-everglades-67705.herokuapp.com/
 
----
-
-## Usage
+![Screenshot of the app's main page](/public/icons/app-screenshot.png)
 
 ---
 
@@ -29,3 +27,5 @@ This app allows users to keep an eye on their accounts whether an internet conne
 GitHub account: github.com/cmdebrosse
 
 email: cmdebrosse@outlook.com
+
+---
