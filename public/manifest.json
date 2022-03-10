@@ -1,6 +1,6 @@
 {
   "name": "Offline Budget Tracker",
-  "short_name": "Budgeter",
+  "short_name": "offline-budgeter",
   "icons": [
     {
       "src": "/icons/icon-72x72.png",
